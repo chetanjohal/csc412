@@ -27,19 +27,10 @@ To set up contact form:
 2. Make directory php/temp writeable (change attributes to 777)
 3. Edit the options in contact.php file. The most important are: `$from` and `$sendTo`. The rest can remain as it is.
 
-Thank you for downloading!
-
-In case you would need some custom modifications, don't hesitate to get in touch.
-
-ondrique, (ahoj@ondrejsvestka.cz)
 
 ## Credits ##
 
 - Bootstrap 3.3 - [http://getbootstrap.com/](http://getbootstrap.com/)
-- Photos for demo purposes [IM FREE](http://www.imcreator.com/free)
-
-**Plugins used in the template**
-
 - Owl Carousel ([http://www.owlgraphic.com/owlcarousel/](http://www.owlgraphic.com/owlcarousel/))
 - jQuery Waypoints ([http://imakewebthings.com/jquery-waypoints/](http://imakewebthings.com/jquery-waypoints/))
 - animate.css ([http://daneden.github.io/animate.css/](http://daneden.github.io/animate.css/))
