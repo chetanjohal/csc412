@@ -1,6 +1,6 @@
 Hello,
 
-thank you for downloading IT Worker.
+
 
 
 *Everything is kept simple so you should not have any problems implementing the template. I will try to answer few of the possible questions below.*
